@@ -1,16 +1,1 @@
-# mobile_application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter project was a part of my Bachelor's thesis. It's an app designed for large warehouse workers to help them with their daily duties such as completing an order, task management etc. It's using custom API to get data from Azure Cloud. This app contains features such like: tasks list for selected day and their state, map of the warehouse (prepared by warehouse owner in web app) - map is highlighting racks where user can find stuff to collect to finish his task
